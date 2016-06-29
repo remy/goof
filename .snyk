@@ -4,11 +4,19 @@ patch:
   'npm:marked:20150520':
     - marked:
         patched: '2016-06-29T16:14:16.714Z'
+    - marked:
+        patched: '2016-06-29T17:03:08.684Z'
   'npm:minimatch:20160620':
     - tap > nyc > istanbul > fileset > minimatch:
         patched: '2016-06-29T16:14:16.714Z'
+    - tap > nyc > istanbul > fileset > minimatch:
+        patched: '2016-06-29T17:03:08.684Z'
   'npm:request:20160119':
     - tap > codecov.io > request:
         patched: '2016-06-29T16:14:16.714Z'
     - tap > coveralls > request:
         patched: '2016-06-29T16:14:16.714Z'
+    - tap > codecov.io > request:
+        patched: '2016-06-29T17:03:08.684Z'
+    - tap > coveralls > request:
+        patched: '2016-06-29T17:03:08.684Z'
