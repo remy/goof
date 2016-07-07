@@ -1,0 +1,11 @@
+version: v1.5.0
+ignore: {}
+patch:
+  'npm:marked:20150520':
+    - marked:
+        patched: '2016-07-07T16:51:40.340Z'
+  'npm:request:20160119':
+    - tap > coveralls > request:
+        patched: '2016-07-07T16:51:40.340Z'
+    - tap > codecov.io > request:
+        patched: '2016-07-07T16:51:40.340Z'
