@@ -13,3 +13,6 @@ patch:
   'npm:request:20160119':
     - tap > codecov.io > request:
         patched: '2016-07-22T15:10:51.293Z'
+  'npm:tough-cookie:20160722':
+    - tap > coveralls > request > tough-cookie:
+        patched: '2016-07-25T10:05:21.398Z'
