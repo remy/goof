@@ -7,9 +7,15 @@ patch:
   'npm:marked:20150520':
     - marked:
         patched: '2016-07-22T15:10:51.293Z'
+    - marked:
+        patched: '2016-08-23T16:21:38.359Z'
   'npm:minimatch:20160620':
     - tap > nyc > istanbul > fileset > minimatch:
         patched: '2016-07-22T15:10:51.293Z'
   'npm:request:20160119':
     - tap > codecov.io > request:
         patched: '2016-07-22T15:10:51.293Z'
+    - tap > coveralls > request:
+        patched: '2016-08-23T16:21:38.359Z'
+    - tap > codecov.io > request:
+        patched: '2016-08-23T16:21:38.359Z'
