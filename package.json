@@ -22,7 +22,7 @@
     "express": "4.14.0",
     "humanize-ms": "1.0.2",
     "method-override": "latest",
-    "mongoose": "4.3.6",
+    "mongoose": "4.13.17",
     "morgan": "latest",
     "ms": "^0.7.1",
     "npmconf": "2.0.9",
